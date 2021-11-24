@@ -1,8 +1,9 @@
 
 # Proposal: Predicting Burned Calories on Workout
 
-## Data Overview:
 
+## Data Overview:
+Calories are a measure of energy. Since calories are, effectively, energy, any time energy is used or transformed in our body we consume calories. To examine, the most effective way to burn calories, we will see the most contributing factors. The information in this proposal for the database will discuss how the problem has developed (including seven specific problems), and present a possible solution. 
 
 ## Source:
 from Kaggle website: 
