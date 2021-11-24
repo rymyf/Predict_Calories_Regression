@@ -9,7 +9,7 @@ from Kaggle website: https://www.kaggle.com/emdemor/predicting-burned-calories-o
 ## Size of Data:
 - Number of rows: 
 - Number of columns: 
-- 
+
 ## Columns description:
 Each row is (...) . Columns are as follows:
 - ...
