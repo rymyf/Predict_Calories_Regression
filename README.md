@@ -8,13 +8,20 @@
 from Kaggle website: 
 
 ## Size of Data:
-- Number of rows: 
-- Number of columns: 
+- Number of rows: 15,000
+- Number of columns: 9
 
 ## Columns description:
-Each row is (...) . Columns are as follows:
-- ...
-- etc
+- Below is a description of the columns: 
+- User_ID: unique number
+- Gender: male or female
+- Age: person age
+- Height: person height
+- Weight: person weight
+- Duration: exercise duration
+- Heart_Rate: Heart rate during exercise
+- Body_Temp: Body temperature during exercise
+- Calories: The number of calories burned
 
 ## Question:
 1. How can age affect performance time during a workout?
