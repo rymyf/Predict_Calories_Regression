@@ -4,7 +4,7 @@
 
 
 ## Source:
-from Kaggle website: https://www.kaggle.com/emdemor/predicting-burned-calories-on-workout/data
+from Kaggle website: 
 
 ## Size of Data:
 - Number of rows: 
