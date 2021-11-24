@@ -12,7 +12,7 @@ from Kaggle website:
 - Number of columns: 9
 
 ## Columns description:
-- Below is a description of the columns: 
+Below is a description of the columns: 
 - User_ID: unique number
 - Gender: male or female
 - Age: person age
@@ -43,6 +43,11 @@ from Kaggle website:
 - Softwares: 
 
 ## MVP goals:
-- ...
-- etc
+1. Find out what factors affect how high and low the heart is during exercise.
+
+2. We want to get the difference between males and females in the duration of exercise and calories burned.
+
+3. We get the calorie burn rate compared to your workout time.
+
+4. We conclude the oldest ages that achieve high calorie burning.
 
