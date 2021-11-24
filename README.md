@@ -33,11 +33,12 @@ Below is a description of the columns:
 
 4. What is the difference between male and female in the duration of workout and burned calories?
 
-5. Is there a relationship between weight and burned calories?
+5. What is the relationship between weight and burned calories?
 
 6. What are the oldest ages that achieve high calorie burn?
 
-7. Is there a difference between male and female in height and weight?
+7. What is the difference between male and female in height and weight?
+
 ## Tools:
 - Libraries: 
 pandas, 
