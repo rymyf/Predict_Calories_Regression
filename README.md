@@ -39,20 +39,19 @@ Below is a description of the columns:
 7. Is there a difference between male and female in height and weight?
 ## Tools:
 - Libraries: 
-
-pandas
-numpy
-matplotlib
-seaborn
-plotly
+pandas, 
+numpy, 
+matplotlib, 
+seaborn, 
+plotly, 
 sklearn
 
 - Softwares: 
-Trello
-GitHub
-Jupyter
-VSCode
-PowerPoint
+Trello, 
+GitHub, 
+Jupyter, 
+VSCode, 
+PowerPoint, 
 Word
 
 ## MVP goals:
