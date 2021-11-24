@@ -40,7 +40,20 @@ Below is a description of the columns:
 ## Tools:
 - Libraries: 
 
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+sklearn
+
 - Softwares: 
+Trello
+GitHub
+Jupyter
+VSCode
+PowerPoint
+Word
 
 ## MVP goals:
 1. Find out what factors affect how high and low the heart is during exercise.
