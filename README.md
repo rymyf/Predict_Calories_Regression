@@ -39,6 +39,12 @@ Below is a description of the columns:
 
 7. What is the difference between male and female in height and weight?
 
+## Algorithm/models:
+- Linear Regression
+- Polynomial Regression
+- Decision Tree Regression
+- Random Forest Regression
+
 ## Tools:
 - Libraries: 
 pandas, 
