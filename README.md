@@ -86,6 +86,6 @@ from Kaggle website [here](https://www.kaggle.com/emdemor/predicting-burned-calo
 
 [@Aishah2019](https://github.com/Aishah2019)
 
-[@Imm40](https://github.com/Imm40)
+[@munira-alshahrani](https://github.com/munira-alshahrani)
 
 [@Alsultan14](https://github.com/Alsultan14)
